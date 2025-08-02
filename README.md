@@ -23,7 +23,7 @@ The project is designed to create intelligent search, thematic classification an
 
 | Component | Technology |
 | --------------- | ------------------------------ |
-| Language | `Python` / `TypeScript` |
+| Language | `Python` / `TypeScript` / `.NET`|
 | Vector DB | `Milvus` |
 | Relational DB | `Supabase (PostgreSQL)` |
 | API | `FastAPI`, `Supabase Functions` |
